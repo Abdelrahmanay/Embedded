@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1690414962 source:c:\embedded\patterns1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pattern1.h"
+
+1690414495 c:\embedded\patterns1\pattern1.h
+	<stdint.h>
+
+1690414962 source:c:\embedded\patterns1\pattern1.c
+	<stdio.h>
+	"pattern1.h"
+
+1690414075 source:c:\embedded\patterns1\pattern2.c
+	<stdio.h>
+	"pattern2.h"
+
+1690413491 c:\embedded\patterns1\pattern2.h
+

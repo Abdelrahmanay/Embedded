@@ -1,0 +1,1 @@
+void funcLogMyself(void);

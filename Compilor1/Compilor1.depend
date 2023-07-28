@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1690377214 source:c:\embedded\compilor1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690377206 source:c:\embedded\compilor1\func.c
+	"func.h"
+
+1690377206 c:\embedded\compilor1\func.h
+

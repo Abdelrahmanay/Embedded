@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1690321172 source:c:\embedded\pointers1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Motor.h"
+	"Sensor.h"
+
+1690321241 c:\embedded\pointers1\motor.h
+
+1690296553 c:\embedded\pointers1\sensor.h
+
+1690321235 source:c:\embedded\pointers1\motor.c
+	<stdio.h>
+	"Motor.h"
+
+1690296560 source:c:\embedded\pointers1\sensor.c
+	"Sensor.h"
+
